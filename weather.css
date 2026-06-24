@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url("weather2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    font-size: 50px;
+}
+.input{
+    padding: 50px;
+}
+.submit{
+    padding-top: 50px;
+}
+.p{
+    padding: 10px;
+}
